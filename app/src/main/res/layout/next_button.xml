@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/checkScoreAndNext"
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:background="@color/submit_Button"
+        android:onClick="updateQ1scoreAndGoToNext"
+        android:text="Next"
+        android:textAllCaps="true"
+        android:textColor="@android:color/white" />
+</FrameLayout>

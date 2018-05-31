@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Android Basics Quiz</string>
+    <string name="questionLabel">Question</string>
+    <string name="question1_of_4">1 of 4</string>
+    <string name="question1">What attribute is missing so that this correctly appears on the screen?</string>
+    <string name="hintForQuestion1Answer">Enter your answer here</string>
+    <string name="nextButton">Next</string>
+    <string name="question2Option3">Logcat</string>
+    <string name="question2Option2">TODO</string>
+    <string name="question2Option1">SDK Manager</string>
+    <string name="question2">Which of the following is a useful tool to debug your app?</string>
+    <string name="question2_of_4">2 of 4</string>
+    <string name="question3_of_4">3 of 4</string>
+    <string name="question3">What are the attributes in this TextView?</string>
+    <string name="question3Option1">Android: text, Android: layout_width and Android: layout_height</string>
+    <string name="question3Option2">Happy Birthday, 150dp width and 75dp height</string>
+    <string name="question3Option3">There are none</string>
+    <string name="question4Option3">Lengths are defined in dp</string>
+    <string name="question4Option2">No more than 2 colors are used in a layout</string>
+    <string name="question4Option1">Text sizes are defined in sp</string>
+    <string name="question4">Which of the following are considered best practices?(select only two)</string>
+    <string name="question4_of_4">4 of 4</string>
+    <string name="GreatJobMsg">Great Job! 1 point added.</string>
+    <string name="BetterLuckMsg">Better luck next time, 0 points added.</string>
+    <string name="SelectOnlyTwoMsg">Select only two choices</string>
+    <string name="final_score">final score</string>
+    <string name="_0">0</string>
+    <string name="_finalScore">Your final score is</string>
+</resources>
